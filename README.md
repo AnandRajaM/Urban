@@ -3,7 +3,8 @@
 
 
 ## Overview
-Urban, developed by team a-squared for the Prasunethon hackathon, aims to revolutionize urban living through the strategic integration of cutting-edge technology. Our focus includes enhancing resource management efficiency, advancing public safety measures, and fostering deeper citizen engagement. This initiative strives to create smarter, more sustainable cities where technology empowers communities to thrive.## Video
+Urban, developed by team a-squared for the Prasunethon hackathon, aims to revolutionize urban living through the strategic integration of cutting-edge technology. Our focus includes enhancing resource management efficiency, advancing public safety measures, and fostering deeper citizen engagement. This initiative strives to create smarter, more sustainable cities where technology empowers communities to thrive.
+## Video
 https://github.com/AnandRajaM/Healthie/assets/142321494/742ac06e-262a-47cc-b594-d269d6be457d
 
 ## Screenshots
