@@ -41,6 +41,10 @@ Models Used for this are:
 The power/energy prediction model in Urban uses Facebook Prophet to analyze past energy use patterns. By understanding how energy consumption changes over time—like during different seasons or times of day—the model predicts future energy needs accurately. This helps city planners manage energy efficiently, save costs, and promote sustainability. Ultimately, it ensures reliable energy supply and supports long-term environmental goals for urban areas.
 
 
+## Acknowledgement
+Datasets can be found here :
+[Water Quality Dataset](https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook)
+[Energy Prediction Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
 
 ## Authors
 
