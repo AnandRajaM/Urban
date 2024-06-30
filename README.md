@@ -42,9 +42,9 @@ The power/energy prediction model in Urban uses Facebook Prophet to analyze past
 
 
 ## Acknowledgement
-Datasets can be found here :
-[Water Quality Dataset](https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook)
-[Energy Prediction Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+The datasets utilized in this project do not belong to the author and can be found here:
+- [Water Quality Dataset](https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook)
+- [Energy Prediction Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
 
 ## Authors
 
